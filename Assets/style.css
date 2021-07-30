@@ -1,0 +1,40 @@
+main {
+    font-family: roboto;
+    color: white;
+}
+
+textarea {
+    resize: none;
+    border: none;
+    background: transparent;
+    padding: 5px;
+}
+
+.jumbotron{
+    font-family: roboto;
+    background: linear-gradient(150deg, rgba(171,228,230,1) 0%, rgba(5,22,42,1) 100%);
+    color: white;
+}
+
+.first {
+    background-color: rgba(5,22,42,1);
+}
+
+.past {
+    background-color: rgba(236, 123, 30, 0.6);
+}
+
+
+.current {
+    background-color: rgba(152, 235, 170, 0.8);
+}
+
+.future {
+    background-color: rgb(45, 151, 212);
+}
+
+.saveBtn {
+    background-color: rgba(5,22,42,1);
+    color: white;
+}
+
